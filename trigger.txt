@@ -1,1 +1,1 @@
-golang:1.8.0-alpine registry.cn-hangzhou.aliyuncs.com/zcgtest/golang:1.8.0-alpine
+sonarqube:lts registry.cn-hangzhou.aliyuncs.com/zcgtest/sonarqube:lts
