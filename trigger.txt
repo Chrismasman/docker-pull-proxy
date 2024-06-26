@@ -1,1 +1,1 @@
-jenkins/jenkins:lts registry.cn-hangzhou.aliyuncs.com/zcgtest/jenkins:lts
+jenkins:lts registry.cn-hangzhou.aliyuncs.com/zcgtest/jenkins:lts
