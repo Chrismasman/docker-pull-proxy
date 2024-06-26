@@ -1,1 +1,1 @@
-cnych/jenkins:jnlp6 registry.cn-hangzhou.aliyuncs.com/zcgtest/jenkins:jnlp6
+golang:1.8.0-alpine registry.cn-hangzhou.aliyuncs.com/zcgtest/golang:1.8.0-alpine
