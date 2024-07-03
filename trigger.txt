@@ -1,1 +1,1 @@
-sonarqube:latest registry.cn-hangzhou.aliyuncs.com/zcgtest/sonarqube:latest
+releases-docker.jfrog.io/jfrog/artifactory-oss:latest registry.cn-hangzhou.aliyuncs.com/zcgtest/artifactory-oss:latest
