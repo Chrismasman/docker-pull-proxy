@@ -1,1 +1,1 @@
-1panel/kubepi:v1.8.0 registry.cn-hangzhou.aliyuncs.com/zcgtest/kubepi:v1.8.0
+redis:7.0.15-alpine registry.cn-hangzhou.aliyuncs.com/zcgtest/redis:7.0.15-alpine
