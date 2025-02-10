@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web registry.cn-hangzhou.aliyuncs.com/zcgtest/yidadaa/chatgpt-next-web
+yidadaa/chatgpt-next-web registry.cn-hangzhou.aliyuncs.com/zcgtest/chatgpt-next-web:v1
