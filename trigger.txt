@@ -1,1 +1,1 @@
-redis:7.0.15-alpine registry.cn-hangzhou.aliyuncs.com/zcgtest/redis:7.0.15-alpine
+yidadaa/chatgpt-next-web registry.cn-hangzhou.aliyuncs.com/zcgtest/yidadaa/chatgpt-next-web
